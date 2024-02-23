@@ -1,0 +1,33 @@
+body {
+    background-image: url("../asset/wet_snow.png");
+    background-size: auto;
+  }
+  
+  a {
+    text-decoration: none !important;
+  }
+  
+  form {
+    background-color: white;
+    padding: 1.5rem;
+    border-radius: 1rem;
+  }
+  
+  /* Set Color */
+  
+  .bg-color-cyan {
+    background-color: #136d79;
+  }
+  
+  .text-color-cyan {
+    color: #136d79;
+  }
+  
+  .bg-color-light {
+    background-color: white;
+  }
+  
+  .text-color-light {
+    color: white;
+  }
+  
